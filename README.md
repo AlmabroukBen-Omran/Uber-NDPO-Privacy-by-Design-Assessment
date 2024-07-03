@@ -3,9 +3,9 @@ This repository contains the comprehensive assessment and evaluation of Uber's m
 
 ## Repository Structure
 - `PbD Assessment Tool Beta version.xlsm`: The main assessment tool used for this project, containing multiple sheets that provide information on the tool, initial data collection, and the actual assessment.
-- `Uber NDPO PbD Assessment Report`: The detailed report documenting the assessment results, findings, and the tool's proposed recommendations.
-- `Executive Summary of Uber's NDPO PbD Assessment Report`: A concise summary highlighting key points from the full assessment report.
-- `Uber PbD Assessment Presentation`: A PowerPoint presentation prepared to summarize the assessment findings and recommendations for an executive audience.
+- `Uber NDPO PbD Assessment Report.pdf`: The detailed report documenting the assessment results, findings, and the tool's proposed recommendations.
+- `Executive Summary of Uber's NDPO PbD Assessment Report.docx`: A concise summary highlighting key points from the full assessment report.
+- `Uber PbD Assessment Presentation.pptx`: A PowerPoint presentation prepared to summarize the assessment findings and recommendations for an executive audience.
 
 ## Clone Repository
 ```bash
