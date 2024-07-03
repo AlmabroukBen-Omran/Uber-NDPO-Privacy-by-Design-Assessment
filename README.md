@@ -24,18 +24,18 @@ This sheet gathers preliminary information about the application under assessmen
 ### Sheet 3: Assessment:
 This sheet is where the actual assessment is conducted. It evaluates 45 privacy controls across 7 PbD domains. Each control is categorized as effective, partially effective, ineffective, or not applicable and includes:
 
-• Domain: The specific area of privacy being evaluated.
-• Control ID: A unique identifier for each control.
-• Control Title: The title of the control.
-• Control Description: A detailed description of what the control entails.
-• Privacy by Design Principle: The PbD principle that the control is based on.
-• Control Effectiveness: An evaluation of how effective the control is.
-• Observation: Notes and observations made during the assessment.
+- Domain: The specific area of privacy being evaluated.
+- Control ID: A unique identifier for each control.
+- Control Title: The title of the control.
+- Control Description: A detailed description of what the control entails.
+- Privacy by Design Principle: The PbD principle that the control is based on.
+- Control Effectiveness: An evaluation of how effective the control is.
+- Observation: Notes and observations made during the assessment.
 
 ## Summary of Key Findings and Recommendations
-• Strengths: Robust access controls, comprehensive data encryption, and regular privacy notices.
-• Concerns: Inconsistent anonymization, data retention policy gaps, third-party data sharing, and audit logging deficiencies.
-• Recommendations: Develop anonymization techniques, enforce data retention policies, strengthen third-party data sharing controls, and maintain audit logs.
+- Strengths: Robust access controls, comprehensive data encryption, and regular privacy notices.
+- Concerns: Inconsistent anonymization, data retention policy gaps, third-party data sharing, and audit logging deficiencies.
+- Recommendations: Develop anonymization techniques, enforce data retention policies, strengthen third-party data sharing controls, and maintain audit logs.
 
 ## Conclusion
 The assessment highlights the importance of Privacy by Design principles in app development and provides actionable insights to enhance Uber's privacy practices. This project serves as a practical example of applying theoretical knowledge to real-world scenarios, underscoring the significance of privacy in the digital era.
