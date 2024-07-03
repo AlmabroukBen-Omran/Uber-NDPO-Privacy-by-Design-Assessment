@@ -44,5 +44,5 @@ The assessment highlights the importance of Privacy by Design principles in app 
 A massive thank you to my group members (Ali Ranjbar & Mohammad Ashjar Khan) for their invaluable contributions to the project. Also, a sincere token of appreciation goes out to Dr. Mueen Uddin for delivering such an excellent course and for providing his unique insights into the world of privacy.
 
 ## Acknowledgements
-- [Uber:](https://www.uber.com/legal/en/document/?name=privacy-notice&country=qatar&lang=en) Uber's Privacy Notice.
-- [National Cyber Governance and Assurance Affairs:](https://assurance.ncsa.gov.qa/sites/default/files/library/2023-10/Privacy%20by%20Design%20Assessment%20Tool%20Beta%20version_1.xlsm) NDPO's Open-Source PbD Assessment Tool.
+- [Uber](https://www.uber.com/legal/en/document/?name=privacy-notice&country=qatar&lang=en) Uber's Privacy Notice.
+- [National Cyber Governance and Assurance Affairs](https://assurance.ncsa.gov.qa/sites/default/files/library/2023-10/Privacy%20by%20Design%20Assessment%20Tool%20Beta%20version_1.xlsm) NDPO's Open-Source PbD Assessment Tool.
