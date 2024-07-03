@@ -7,7 +7,7 @@ This repository contains the comprehensive assessment and evaluation of Uber's m
 - `Executive Summary of Uber's NDPO PbD Assessment Report`: A concise summary highlighting key points from the full assessment report.
 - `Uber PbD Assessment Presentation`: A PowerPoint presentation prepared to summarize the assessment findings and recommendations for an executive audience.
 
-## Clone Repository:
+## Clone Repository
 ```bash
 git clone https://github.com/AlmabroukBen-Omran/Uber-NDPO-Privacy-by-Design-Assessment.git
 ```
@@ -15,13 +15,13 @@ git clone https://github.com/AlmabroukBen-Omran/Uber-NDPO-Privacy-by-Design-Asse
 ## Assessment Tool Overview
 The NDPO Privacy by Design assessment tool is an Excel-based tool designed to help evaluate privacy practices across different applications. It includes the following key components:
 
-### Sheet 1: Read This First:
+### Sheet 1: Read This First
 This sheet provides an introduction to the tool, including its purpose, scope, and references. It highlights the need for conducting PbD assessments and offers guidance on how to use the tool effectively.
 
-### Sheet 2: Initial Information Request:
+### Sheet 2: Initial Information Request
 This sheet gathers preliminary information about the application under assessment. For this project, the initial information regarding Uber's mobile application is documented here.
 
-### Sheet 3: Assessment:
+### Sheet 3: Assessment
 This sheet is where the actual assessment is conducted. It evaluates 45 privacy controls across 7 PbD domains. Each control is categorized as effective, partially effective, ineffective, or not applicable and includes:
 
 - Domain: The specific area of privacy being evaluated.
@@ -44,5 +44,5 @@ The assessment highlights the importance of Privacy by Design principles in app 
 A massive thank you to my group members (Ali Ranjbar & Mohammad Ashjar Khan) for their invaluable contributions to the project. Also, a sincere token of appreciation goes out to Dr. Mueen Uddin for delivering such an excellent course and for providing his unique insights into the world of privacy.
 
 ## Acknowledgements
-- [Uber](https://www.uber.com/legal/en/document/?name=privacy-notice&country=qatar&lang=en) Uber's Privacy Notice.
-- [National Cyber Governance and Assurance Affairs](https://assurance.ncsa.gov.qa/sites/default/files/library/2023-10/Privacy%20by%20Design%20Assessment%20Tool%20Beta%20version_1.xlsm) NDPO's Open-Source PbD Assessment Tool.
+- [Uber:](https://www.uber.com/legal/en/document/?name=privacy-notice&country=qatar&lang=en) Uber's Privacy Notice.
+- [National Cyber Governance and Assurance Affairs:](https://assurance.ncsa.gov.qa/sites/default/files/library/2023-10/Privacy%20by%20Design%20Assessment%20Tool%20Beta%20version_1.xlsm) NDPO's Open-Source PbD Assessment Tool.
