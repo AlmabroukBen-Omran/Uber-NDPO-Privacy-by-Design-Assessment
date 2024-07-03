@@ -1,8 +1,8 @@
 # Uber-NDPO-Privacy-by-Design-Assessment
-This repository contains the comprehensive assessment and evaluation of Uber's mobile application using Qatar's National Data Privacy Office (NDPO) Privacy by Design (PbD) assessment tool. The assessment aimed to evaluate Uber's mobile application in accordance with the standards established by Qatar's National Data Privacy Office (NDPO) under the Personal Data Privacy Protection Law (PDPPL) and the PbD principles. Developed for the Privacy in the Digital Era course at the University of Doha for Science and Technology (UDST), this project aims to provide hands-on experience in applying and evaluating PbD principles, conducting privacy evaluations, and generating tailored privacy recommendations.
+This repository contains the comprehensive assessment and evaluation of Uber's mobile application using Qatar's National Data Privacy Office (NDPO) Privacy by Design (PbD) assessment tool. The assessment aimed to evaluate Uber's mobile application in accordance with the standards established by the NDPO under the Personal Data Privacy Protection Law (PDPPL) and the PbD principles. Developed for the Privacy in the Digital Era course at the University of Doha for Science and Technology (UDST), this project aims to provide hands-on experience in applying and evaluating PbD principles, conducting privacy evaluations, and generating tailored privacy recommendations.
 
 ## Repository Structure
-- `Privacy by Design Assessment Tool Beta version.xlsm`: The main assessment tool used for this project, containing multiple sheets that provide information on the tool, initial data collection, and the actual assessment.
+- `PbD Assessment Tool Beta version.xlsm`: The main assessment tool used for this project, containing multiple sheets that provide information on the tool, initial data collection, and the actual assessment.
 - `Uber NDPO PbD Assessment Report`: The detailed report documenting the assessment results, findings, and the tool's proposed recommendations.
 - `Executive Summary of Uber's NDPO PbD Assessment Report`: A concise summary highlighting key points from the full assessment report.
 - `Uber PbD Assessment Presentation`: A PowerPoint presentation prepared to summarize the assessment findings and recommendations for an executive audience.
@@ -15,11 +15,15 @@ git clone https://github.com/AlmabroukBen-Omran/Uber-NDPO-Privacy-by-Design-Asse
 ## Assessment Tool Overview
 The NDPO Privacy by Design assessment tool is an Excel-based tool designed to help evaluate privacy practices across different applications. It includes the following key components:
 
-### Sheet 1: Read This First: This sheet provides an introduction to the tool, including its purpose, scope, and references. It highlights the need for conducting Privacy by Design assessments and offers guidance on how to use the tool effectively.
+### Sheet 1: Read This First:
+This sheet provides an introduction to the tool, including its purpose, scope, and references. It highlights the need for conducting PbD assessments and offers guidance on how to use the tool effectively.
 
-### Sheet 2: Initial Information Request: This sheet gathers preliminary information about the application under assessment. For this project, the initial information regarding Uber's mobile application is documented here.
+### Sheet 2: Initial Information Request:
+This sheet gathers preliminary information about the application under assessment. For this project, the initial information regarding Uber's mobile application is documented here.
 
-### Sheet 3: Assessment: This sheet is where the actual assessment is conducted. It evaluates 45 privacy controls across 7 Privacy by Design domains. Each control is categorized as effective, partially effective, ineffective, or not applicable and includes:
+### Sheet 3: Assessment:
+This sheet is where the actual assessment is conducted. It evaluates 45 privacy controls across 7 PbD domains. Each control is categorized as effective, partially effective, ineffective, or not applicable and includes:
+
 • Domain: The specific area of privacy being evaluated.
 • Control ID: A unique identifier for each control.
 • Control Title: The title of the control.
